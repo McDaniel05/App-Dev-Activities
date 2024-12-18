@@ -1,0 +1,20 @@
+<resources>
+    <string name="Appname">Scrolling Text</string>
+    <string name="Arcticle_title">Umaasa, Song by Calein
+</string>
+    <string name="Arcticle_subheading">Lyrics</string>
+    <string name="Arcticle_text">
+        <b><i>Intro\n</i></b>Nilibot ang tahanan\nTagpuan, wala ka\nPa\'no hihilom ang sugat\nNa gawa sa pagmamahalan?\nPagmamahalan?\n\n
+        Buong araw \'kang iniisip\nMga sulat  mo\'y binasa\nPa\'no ba titigil ang pagluha\nNa gawa sa pagmamahalan?\nPagmamahalan?\n\n
+        <b><i>Chorus\n</i></b>Magbabalik ang nakaraan\n Ibabalik ang pinagmulan\n Umaasa, umaasa\n Magbabalik ang nakaraan\n Ibabalik ang pinagmulan\n Umaasa, umaasa\n\n
+        <b><i>Verse\n </i></b>Hinahanap ko ang dating\n Kasiyahan, kalungkutan\n Aking iaalay ang himig\n Na gawa sa pagmamahalan,\n pagmamahalan\n\n
+        <b><i>Chorus\n </i></b>Magbabalik ang nakaraan\nIbabalik ang pinagmulan\nUmaasa, umaasa\nMagbabalik ang nakaraan\nIbabalik ang pinagmulan\nUmaasa, umaasan\n\n
+        <b><i>Verse\n</i></b>Nilibot ang tahanan\nAt ating dating tagpuan\nUmaasa, umaasa\n\n
+        <b><i>Chorus </i></b>Magbabalik ang nakaraan\nIbabalik ang pinagmulan\nUmaasa, umaasa\nMagbabalik ang nakaraan\nIbabalik ang pinagmulan\nUmaasa, umaasan\n\n
+        Magbabalik ang nakaraan(Nilibot ang tahanan)\n(Tagpuan, wala ka)\n(Umaasa, umaasa)\n(Nilibot ang tahanan)\n(Tagpuan, wala ka)\n(Umaasa) \n\n
+
+
+        https://www.youtube.com/watch?v=GX3X9PmQOHY
+</string>
+    <dimen name="padding_value">9dp</dimen>
+</resources>
